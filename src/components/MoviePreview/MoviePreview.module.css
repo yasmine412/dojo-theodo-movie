@@ -1,2 +1,29 @@
 .movieCard {
+    display:flex;
+    flex-direction: column;
+    height:380px;
+    width:fit-content;
+    border:0.5px solid #464646;
+    background-color: #464646;
+    border-radius: 10px;
+    align-items: center;
 }
+
+.movieCard img {
+    height:300px;
+    border-top-right-radius: 10px;
+    border-top-left-radius: 10px;
+}
+
+
+
+
+
+.yellow {
+    color:yellow;
+}
+
+.white {
+    color:white;
+}
+
